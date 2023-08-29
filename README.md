@@ -1,4 +1,4 @@
-![MaterHead](https://github.com/Cyberguy-Rahul/github-banner/blob/master/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner.png)
+![logo](https://github.com/Cyberguy-Rahul/github-banner/blob/master/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
